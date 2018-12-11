@@ -6,12 +6,12 @@
 
 * [intake](intake.md)
 * [consult and assessment](initial-consult.md)
-* strategic plan
+* [strategic plan](strategic-plan.md)
 
 ### **Module 2**
 
-* decision
-* match
+* [decision](decision.md)
+* [match](match.md)
 
 ### **Module 3**
 

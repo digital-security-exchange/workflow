@@ -3,6 +3,9 @@
 * [DSX Workflow](README.md)
 * [Intake](intake.md)
 * [Initial Consult & Assessment](initial-consult.md)
+* [Strategic Plan](strategic-plan.md)
+* [Decision](decision.md)
+* [Match](match.md)
 
 ## Zammad Setup \(Organization Onboard\)
 
