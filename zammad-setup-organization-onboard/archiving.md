@@ -1,5 +1,5 @@
 ---
-description: A How To Guide on Archiving
+description: A How To Guide on Archiving within Zammad
 ---
 
 # Archiving

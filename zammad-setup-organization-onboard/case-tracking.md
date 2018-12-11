@@ -1,5 +1,5 @@
 ---
-description: 'Case status options, tagging, protocol, etc'
+description: 'Case status options, tagging, protocol, etc within Zammad'
 ---
 
 # Case Tracking
