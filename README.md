@@ -4,7 +4,7 @@
 
 ### **Module 1**
 
-* [intake](https://github.com/digital-security-exchange/exchange-new/wiki/Intake)
+* [intake](intake.md)
 * initial consult
 * needs assessment
 * strategic plan
