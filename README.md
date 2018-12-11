@@ -15,11 +15,13 @@
 
 ### **Module 3**
 
-* case management
+* [case management](case-management.md)
 
 ### **Module 4**
 
-* resolved case
-* feedback
-* case deletion and organization archived
+* [resolved case](case-resolved.md)
+* [feedback](case-resolved.md)
+* [case closed](case-closed.md)
+
+
 
