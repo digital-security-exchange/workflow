@@ -5,8 +5,7 @@
 ### **Module 1**
 
 * [intake](intake.md)
-* [initial consult](initial-consult.md)
-* needs assessment
+* consult and assessment
 * strategic plan
 
 ### **Module 2**
