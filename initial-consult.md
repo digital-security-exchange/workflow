@@ -14,7 +14,7 @@ Initial consult is done between an Organization's contact and a DSX team member.
 
 \[  \] [Onboard Case into Zammad](zammad-setup-organization-onboard/new-case-onboarding.md) \(as a New Case\)
 
-\[  \]Let Organization know DSX will send a writeup of the assessment including an initial strategic plan\* for moving forward  
+\[  \] Let Organization know DSX will send a writeup of the assessment including an initial strategic plan\* for moving forward  
 
 
 
