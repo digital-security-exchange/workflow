@@ -1,9 +1,3 @@
----
-description: >-
-  Organization decides to either begin work with DSX, or not to proceed with the
-  DSX
----
-
 # Decision
 
 ## To do:

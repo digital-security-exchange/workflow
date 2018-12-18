@@ -1,7 +1,3 @@
----
-description: 'Case status options, tagging, protocol, etc within Zammad'
----
-
 # Case Tracking
 
 ## Ticket Statuses:

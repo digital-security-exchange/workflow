@@ -4,10 +4,10 @@ Purpose of the intake is to make contact with the new request. Depending on how 
 
 ## To do:
 
-* Response from DSX team within **48 hours** for any request
-* Onboard Organization to Zammad\* \(get a preferred way to contact them\)
+* [ ] Response from DSX team within **48 hours** for any request
+* [ ] Onboard Organization to Zammad\* \(get a preferred way to contact them\)
   * [See Zammad setup](zammad-setup-organization-onboard/adding-an-organization-to-zammad.md)
-* Schedule Initial Consult & Assessment
+* [ ] Schedule Initial Consult & Assessment
 
 
 

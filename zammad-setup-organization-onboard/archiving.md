@@ -1,7 +1,3 @@
----
-description: A How To Guide on Archiving within Zammad
----
-
 # Archiving
 
 Archiving Organizations when their case is closed and they have no open cases

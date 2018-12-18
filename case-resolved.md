@@ -1,7 +1,3 @@
----
-description: Next steps after a case has been resolved
----
-
 # Case Resolved
 
 ## To do:

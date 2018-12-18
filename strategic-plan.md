@@ -1,7 +1,3 @@
----
-description: Write up from the initial consult & assessment.
----
-
 # Strategic Plan
 
 The Strategic Plan is the write up from the initial consult & assessment with the Organization. These are to be shared with the Organization within a week of the call. The Strategic Plan will include recommendations for moving forward regarding the security needs and concerns of the Organization and specifically, how the DSX and a Provider can address their specific case. 

@@ -1,7 +1,3 @@
----
-description: 'Case closed, let''s delete.'
----
-
 # Case Closed
 
 ## To do:

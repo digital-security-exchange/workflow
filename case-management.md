@@ -1,7 +1,3 @@
----
-description: Case tracking and monitoring within Zammad
----
-
 # Case Management
 
 ## To do:
