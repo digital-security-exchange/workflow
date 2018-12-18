@@ -9,6 +9,7 @@ The Strategic Plan is the write up from the initial consult & assessment with th
 ## To do:
 
 * Write up and Strategic Plan
+  * See Strategic Plan template
 * Share Strategic Plan with Organization
   * Within a week
 * Discover if the Organization needs a Contract
