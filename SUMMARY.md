@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The DSX](README.md)
+* [2018-2019 Workplan](2018-2019-workplan.md)
 * [Intake](intake.md)
 * [Initial Consult & Assessment](initial-consult.md)
 * [Strategic Plan](strategic-plan.md)
