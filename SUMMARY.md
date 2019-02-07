@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DSX Workflow](README.md)
+* [The DSX](README.md)
 * [Intake](intake.md)
 * [Initial Consult & Assessment](initial-consult.md)
 * [Strategic Plan](strategic-plan.md)
@@ -12,6 +12,7 @@
 
 ## Zammad Setup \(Organization Onboard\)
 
+* [DSX helpdesk and community](zammad-setup-organization-onboard/dsx-helpdesk-and-community.md)
 * [Adding an Organization to Zammad](zammad-setup-organization-onboard/adding-an-organization-to-zammad.md)
 * [New Case Onboarding](zammad-setup-organization-onboard/new-case-onboarding.md)
 * [Case Tracking](zammad-setup-organization-onboard/case-tracking.md)
