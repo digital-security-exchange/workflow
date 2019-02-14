@@ -2,7 +2,7 @@
 
 ## **Who we are**
 
-### _The goal of DSX is to help every organization discover their digital security needs and to build sustainable strategies to address critical gaps._
+### _The DSX helps nonprofit organizations discover their digital security needs and build sustainable strategies to address critical gaps._
 
 #### 
 
